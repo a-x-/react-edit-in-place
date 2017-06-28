@@ -1,0 +1,15 @@
+{
+  "name": "react-edit-in-place",
+  "description": "3 Modes edit-in-place component: idle, active, pending. Can cancel changes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": "git@github.com:a-x-/react-edit-in-place.git",
+  "author": "Alex Mextner <alex@rocketguys.com>",
+  "version": "0.1.0",
+  "license": "MIT",
+  "dependencies": {
+    "ava": "^0.19.1"
+  }
+}
